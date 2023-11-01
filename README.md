@@ -11,10 +11,3 @@ inspired by The wonderful one Adrian Hajdin  [JavaScript Mastery](https://www.yo
 <img src='screensShoot/1.PNG' width='600'>
 </div>
 
-<div>
-<img src='screensShoot/2.PNG' width='600'>
-</div>
-
-<div>
-<img src='screensShoot/3.PNG' width='600'>
-</div>
